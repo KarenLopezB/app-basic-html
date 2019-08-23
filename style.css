@@ -1,4 +1,22 @@
+body{
+    background-color: rgb(180, 31, 31);
+    text-align: center;
+    line-height: 100vh;
+    margin: 0;
+}
+
 button{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    vertical-align: middle;
+    width: 80px;
+    height: 400px;
+    background-color: #fff;
+    color: #000;
+}
+
+button.sharp{
+    width: 50px;
+    background-color: #000;
+    color: #fff;
 }
